@@ -20,3 +20,9 @@ Manager: To receive the information about the package.
 ##Preconditions: 
 
 The software package is relevant information in the database.
+
+##Main Success Scenario:
+
+Manager receives license and vulnerability information that was requested for the project packages. 
+
+##Failed End Conditions: 
