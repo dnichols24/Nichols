@@ -26,3 +26,7 @@ The software package is relevant information in the database.
 Manager receives license and vulnerability information that was requested for the project packages. 
 
 ##Failed End Conditions: 
+
+
+
+##Trigger:
