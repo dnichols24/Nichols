@@ -21,3 +21,7 @@
 
 
 ##Main Success Scenario:
+
+
+
+##Failed End Conditions:
