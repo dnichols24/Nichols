@@ -1,5 +1,3 @@
-
-
 #Use Case 2
 
 ##Title:
@@ -23,3 +21,7 @@
 
 
 ##Main Success Scenario: 
+
+
+
+##Failed End Conditions:
