@@ -17,7 +17,7 @@ Manager is able to see the vulnerabilities and the software package.
 Developer: To provdie the software package.
 Manager: To receive the information about the package. 
 
-##Preconditions: 
+##Preconditions:
 
 The software package is relevant information in the database.
 
@@ -27,6 +27,7 @@ Manager receives license and vulnerability information that was requested for th
 
 ##Failed End Conditions:
 
-
+Not being able to view the vulnerabilities 
 
 ##Trigger:
+
