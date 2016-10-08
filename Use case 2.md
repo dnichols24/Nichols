@@ -25,3 +25,7 @@
 
 
 ##Failed End Conditions:
+
+
+
+##Trigger: 
