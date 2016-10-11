@@ -1,2 +1,3 @@
 #Executive Summary
 
+This project provides an overview of using OSS, writting code, and processes that could be utilized for a company. There could be benefits and some problems when using the new system. A company could use this, but the information has not been tested and the maturity of this project is at a low level. So there could be some issues when implimenting it within the company. If the system was at a high-level process, it would show the relationship that the system has with other external entities. The DFD is just a graphical visualization of the movement of data through an information system. 
