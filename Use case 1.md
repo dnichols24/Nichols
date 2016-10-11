@@ -31,3 +31,4 @@ Not being able to view the vulnerabilities
 
 ##Trigger:
 
+Check vulnerabilities
